@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Bylaws](bylaws.md)
+* [Bylaws](README.md)
 * [FAQ](faq.md)
+* [Overview](overview.md)
