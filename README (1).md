@@ -13,27 +13,27 @@ A Wyoming Public‑Benefit Non‑Profit Corporation\
 
 #### Table of Contents
 
-[#article-i.-purposes](./#article-i.-purposes "mention")
+[#article-i.-purposes](<README (1).md#article-i.-purposes> "mention")
 
-[#article-ii.-offices](./#article-ii.-offices "mention")
+[#article-ii.-offices](<README (1).md#article-ii.-offices> "mention")
 
-[#article-iii.-members-supersedes-2022-article-iii](./#article-iii.-members-supersedes-2022-article-iii "mention")
+[#article-iii.-members](<README (1).md#article-iii.-members> "mention")
 
-[#article-iv.-directors](./#article-iv.-directors "mention")
+[#article-iv.-directors](<README (1).md#article-iv.-directors> "mention")
 
-[#article-v.-officers](./#article-v.-officers "mention")
+[#article-v.-officers](<README (1).md#article-v.-officers> "mention")
 
-[#article-vi.-committees](./#article-vi.-committees "mention")
+[#article-vi.-committees](<README (1).md#article-vi.-committees> "mention")
 
-[#article-vii.-resignations-and-vacancies](./#article-vii.-resignations-and-vacancies "mention")
+[#article-vii.-resignations-and-vacancies](<README (1).md#article-vii.-resignations-and-vacancies> "mention")
 
-[#article-viii.-meetings-and-notice-thereof](./#article-viii.-meetings-and-notice-thereof "mention")
+[#article-viii.-meetings-and-notice-thereof](<README (1).md#article-viii.-meetings-and-notice-thereof> "mention")
 
-[#article-ix.-liability-and-indemnification](./#article-ix.-liability-and-indemnification "mention")
+[#article-ix.-liability-and-indemnification](<README (1).md#article-ix.-liability-and-indemnification> "mention")
 
-[#article-x.-articles-of-incorporation-and-bylaws](./#article-x.-articles-of-incorporation-and-bylaws "mention")
+[#article-x.-articles-of-incorporation-and-bylaws](<README (1).md#article-x.-articles-of-incorporation-and-bylaws> "mention")
 
-[#article-xi.-miscellaneous](./#article-xi.-miscellaneous "mention")
+[#article-xi.-miscellaneous](<README (1).md#article-xi.-miscellaneous> "mention")
 
 ***
 
@@ -65,7 +65,7 @@ Cassandra Labs may also have offices at such other places as the Directors may s
 
 #### § 1 Classes of Membership
 
-Cassandra Labs shall have one class of Members. Members are defined as individuals or entities that (a) support the mission in Article I and (b) are admitted pursuant to § 2 below.&#x20;
+Cassandra Labs shall have one class of Members. Members are defined as individuals or entities that (a) support the mission in Article I and (b) are admitted pursuant to § 2 below.
 
 The Directors (defined in Article IV) shall be deemed the governing subset of Members for purposes of fiduciary governance and shall consist of Members elected to the Board of Directors.
 
@@ -75,14 +75,14 @@ Any person or entity that subscribes to the purposes of Cassandra Labs may apply
 
 #### § 3 Dues
 
-The Board shall set dues (which may be nominal but shall be not less than $1.00) which must be paid to maintain membership in good standing. Non‑payment beyond 90 days after notice is grounds for membership suspension or termination.&#x20;
+The Board shall set dues (which may be nominal but shall be not less than $1.00) which must be paid to maintain membership in good standing. Non‑payment beyond 90 days after notice is grounds for membership suspension or termination.
 
 #### § 4 Rights & Responsibilities of Members
 
-* Vote — one vote per Member — on:&#x20;
+* Vote — one vote per Member — on:
   * a. amendments to these Bylaws that affect membership rights, purposes, or dues;
   * b. a non‑binding advisory vote on the annual Research & Public‑Goods Agenda—i.e., which research papers and public‑goods projects the Board should prioritize;
-  * c.  election of one Member Liaison, who is deemed a Director and holds the same voting rights as every other Director. The Member Liaison serves a one-year renewable term, may chair advisory committees, and may place items on Board agendas.
+  * c. election of one Member Liaison, who is deemed a Director and holds the same voting rights as every other Director. The Member Liaison serves a one-year renewable term, may chair advisory committees, and may place items on Board agendas.
 * Serve on advisory committees or working groups.
 * Participate in at least one mission‑related activity each year.
 
@@ -161,9 +161,9 @@ Directors and Officers shall serve without compensation for their Board or offic
 
 They may:
 
-&#x20; (a) be reimbursed for reasonable expenses incurred on behalf of Cassandra Labs; and
+(a) be reimbursed for reasonable expenses incurred on behalf of Cassandra Labs; and
 
-&#x20; (b) receive reasonable compensation for services rendered in another capacity, provided such compensation is approved in advance by disinterested Directors pursuant to the Conflict-of-Interest Policy.
+(b) receive reasonable compensation for services rendered in another capacity, provided such compensation is approved in advance by disinterested Directors pursuant to the Conflict-of-Interest Policy.
 
 ***
 
@@ -305,5 +305,3 @@ The Board shall adopt policies on conflicts of interest, whistleblower protectio
 #### § 3 Headings
 
 Headings are for convenience only and do not affect interpretation.
-
-\
