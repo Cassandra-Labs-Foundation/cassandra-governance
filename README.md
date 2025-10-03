@@ -61,24 +61,23 @@ Cassandra Labs may also have offices at such other places as the Directors may s
 
 ***
 
-### Article III. Members (Supersedes 2022 Article III)
+### Article III. Members
 
 #### § 1 Classes of Membership
 
-Cassandra Labs shall have two classes of members:
+Cassandra Labs shall have one class of Members. Members are defined as individuals or entities that (a) support the mission in Article I and (b) are admitted pursuant to § 2 below.&#x20;
 
-1. Governing Members. The members of the Board of Directors ("Directors").
-2. General Members. Individuals or entities that (a) support the mission in Article I and (b) are admitted pursuant to § 2 below.
+The Directors (defined in Article IV) shall be deemed the governing subset of Members for purposes of fiduciary governance and shall consist of Members elected to the Board of Directors.
 
 #### § 2 Eligibility & Admission
 
-Any person or entity that subscribes to the purposes of Cassandra Labs may apply for General Membership. Admission procedures—including any dues—shall be set by Board resolution.
+Any person or entity that subscribes to the purposes of Cassandra Labs may apply for Membership. Admission procedures—including any dues—shall be set by Board resolution.
 
 #### § 3 Dues
 
 The Board shall set dues (which may be nominal but shall be not less than $1.00) which must be paid to maintain membership in good standing. Non‑payment beyond 90 days after notice is grounds for membership suspension or termination.&#x20;
 
-#### § 4 Rights & Responsibilities of General Members
+#### § 4 Rights & Responsibilities of Members
 
 * Vote — one vote per Member — on:&#x20;
   * a. amendments to these Bylaws that affect membership rights, purposes, or dues;
@@ -93,11 +92,11 @@ An annual meeting shall be held each calendar year on a date fixed by the Board,
 
 Quarterly meetings to review progress on the research agenda will also be conducted. Quarterly meetings may be held virtually on ten days’ notice; quorum is the same as for the annual meeting unless the Board sets a lower figure by resolution.
 
-Special meetings may be called by the President, a majority of Directors, or ten percent of General Members.
+Special meetings may be called by the President, a majority of Directors, or ten percent of Members.
 
 #### § 6 Records
 
-The Secretary shall maintain a current roster of General Members.
+The Secretary shall maintain a current roster of Members.
 
 #### § 7 Withdrawal, Suspension & Termination
 
@@ -113,12 +112,12 @@ The business and affairs of Cassandra Labs shall be managed by the Board of Dire
 
 #### § 2 Qualifications
 
-Each Director shall be at least eighteen (18) years of age and need not be a resident of Wyoming.
+Each Director shall be at least eighteen (18) years of age and need not be a resident of Wyoming. Each Director must also be a Member in good standing.
 
 #### § 3 Number, Election & Terms of Directors
 
 The Board shall consist of not fewer than 3 nor more than 15 persons as determined by the Board. Initial Directors were selected by the Incorporator and serve at least one‑year terms until their successors are elected and qualified. The Member Liaison elected under Article III § 4(c) shall be counted as a Director for all purposes of these Bylaws.\
-Directors are elected by the Governing Members (Article III) unless otherwise provided by these Bylaws.
+Directors shall be elected by the Members unless otherwise provided by these Bylaws.
 
 #### § 4 Removal
 
@@ -173,6 +172,8 @@ They may:
 #### § 1 Positions, Election & Term
 
 Officers shall include a President, one or more Vice‑Presidents, a Secretary, and a Treasurer, elected by the Board from among the Directors at the annual meeting for one‑year terms and until successors are elected and qualified. The Board may elect additional officers or assistants.
+
+Assistants are non-voting support roles (e.g., staff, contractors, or volunteers) that do not count toward the Director limit in Article IV §3, confer no governance powers, and are not considered Directors or Officers. Assistants drawn from the membership must be Members in good standing, but serving as an assistant does not confer or require Membership.
 
 #### § 2 Multiple Roles
 
@@ -287,7 +288,7 @@ The Articles of Incorporation dated July 5 2022 are approved and adopted. They m
 #### § 2 Bylaws
 
 These Bylaws may be amended by a majority of all Directors at a duly convened meeting after at least ten (10) days’ written notice including the proposed amendment or a summary thereof.\
-Amendments that affect the rights of General Members under Article III require approval by a majority of votes cast by General Members at a meeting where a quorum is present.
+Amendments that affect the rights of Members under Article III require approval by a majority of votes cast by Members at a meeting where a quorum is present.
 
 ***
 
@@ -304,9 +305,5 @@ The Board shall adopt policies on conflicts of interest, whistleblower protectio
 #### § 3 Headings
 
 Headings are for convenience only and do not affect interpretation.
-
-***
-
-These bylaws were formally adopted on June 24th, 2025 at the Board Meeting.
 
 \
