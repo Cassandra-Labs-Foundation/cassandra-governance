@@ -7,8 +7,6 @@ A Wyoming Public‑Benefit Non‑Profit Corporation\
 
 ### BYLAWS
 
-(Originally adopted July 5 2022 – Amended and Restated Bylaws for Board & Member Adoption on June 24th 2025)
-
 ***
 
 #### Table of Contents
